@@ -6,3 +6,4 @@
 1. Clone this repo by running your **git clone project URL .** 
 1. Reinstall all your dependencies by running the following command **npm i**
 1. Start React project by running **npm start**
+1. 
